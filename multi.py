@@ -1,2 +1,2 @@
 def mult(a, b):
-    return b*a+33
+    return b * a + 33
